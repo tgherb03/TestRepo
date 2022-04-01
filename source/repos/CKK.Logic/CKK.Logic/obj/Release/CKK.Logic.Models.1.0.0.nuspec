@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CKK.Logic.Models</id>
+    <version>1.0.0</version>
+    <authors>CKK.Logic.Models</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\4400113115\source\repos\CKK.Logic\CKK.Logic\bin\Release\net5.0\CKK.Logic.Models.dll" target="lib\net5.0\CKK.Logic.Models.dll" />
+  </files>
+</package>
